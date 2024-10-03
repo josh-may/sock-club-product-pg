@@ -115,7 +115,15 @@ export default function Home() {
               <p className="text-lg mb-6">
                 We use premium materials for our custom socks, blending comfort,
                 durability, and personalization to give new meaning to
-                &apos;perfect fit&apos;.
+                &apos;perfect fit&apos;. Our commitment to quality ensures that
+                each pair of socks not only looks great but feels amazing on
+                your feet.
+              </p>
+              <p className="text-lg mb-6">
+                Whether you're an athlete looking for performance or a fashion
+                enthusiast seeking unique style, our custom socks are designed
+                to exceed your expectations. Experience the perfect balance of
+                form and function with every step you take.
               </p>
               <a
                 href="#"
@@ -125,7 +133,7 @@ export default function Home() {
               </a>
             </div>
             <div className="md:w-1/2">
-              <div className="bg-gray-100 w-80 h-80 rounded-full mx-auto flex items-center justify-center shadow-lg">
+              <div className="bg-gray-100 w-96 h-96 rounded-full mx-auto flex items-center justify-center shadow-lg">
                 <div className="relative w-full h-full">
                   <Image
                     src="/zoom.png"
