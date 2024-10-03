@@ -125,7 +125,7 @@ export default function Home() {
 
       {/* QUALITY HIGHLIGHTER */}
       <section className="py-20 bg-white">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-10">
           <h2 className="text-4xl font-bold mb-12 text-center">
             Premium Quality Socks
           </h2>
