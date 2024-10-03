@@ -80,6 +80,28 @@ export default function Home() {
           <button className="bg-blue-600 text-white py-3 px-6 rounded-lg text-xl hover:bg-blue-700 transition-colors duration-300">
             Get Free Designs
           </button>
+          <div className="mt-6">
+            <details className="mb-4">
+              <summary className="font-semibold text-lg cursor-pointer">
+                Price Breaks
+              </summary>
+              <div className="pl-4 mt-2">
+                <p>30-99 pairs: $7.27 / pair</p>
+                <p>100-249 pairs: $6.99 / pair</p>
+                <p>250+ pairs: $6.75 / pair</p>
+              </div>
+            </details>
+            <details>
+              <summary className="font-semibold text-lg cursor-pointer">
+                Size & Fit
+              </summary>
+              <div className="pl-4 mt-2">
+                <p>Small: US Men's 5-8 / Women's 6-9</p>
+                <p>Medium: US Men's 8-12 / Women's 9-13</p>
+                <p>Large: US Men's 12-15</p>
+              </div>
+            </details>
+          </div>
         </div>
       </main>
 
