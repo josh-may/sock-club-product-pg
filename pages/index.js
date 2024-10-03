@@ -96,9 +96,9 @@ export default function Home() {
                 Size & Fit
               </summary>
               <div className="pl-4 mt-2">
-                <p>Small: US Men's 5-8 / Women's 6-9</p>
-                <p>Medium: US Men's 8-12 / Women's 9-13</p>
-                <p>Large: US Men's 12-15</p>
+                <p>Small: US Men&apos;s 5-8 / Women&apos;s 6-9</p>
+                <p>Medium: US Men&apos;s 8-12 / Women&apos;s 9-13</p>
+                <p>Large: US Men&apos;s 12-15</p>
               </div>
             </details>
           </div>
@@ -142,10 +142,10 @@ export default function Home() {
                 your feet.
               </p>
               <p className="text-lg mb-6">
-                Whether you're an athlete looking for performance or a fashion
-                enthusiast seeking unique style, our custom socks are designed
-                to exceed your expectations. Experience the perfect balance of
-                form and function with every step you take.
+                Whether you&apos;re an athlete looking for performance or a
+                fashion enthusiast seeking unique style, our custom socks are
+                designed to exceed your expectations. Experience the perfect
+                balance of form and function with every step you take.
               </p>
               <a
                 href="#"
